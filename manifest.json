@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "jinavely.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "jinavely.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "img/favicon.ico"
+    }
+  ]
+}
